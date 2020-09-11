@@ -1,0 +1,14 @@
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationServiceLayer\bin\Debug\netcoreapp3.1\ApplicationServiceLayer.deps.json
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationServiceLayer\bin\Debug\netcoreapp3.1\ApplicationServiceLayer.dll
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationServiceLayer\obj\Debug\netcoreapp3.1\ApplicationServiceLayer.csprojAssemblyReference.cache
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationServiceLayer\obj\Debug\netcoreapp3.1\ApplicationServiceLayer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationServiceLayer\obj\Debug\netcoreapp3.1\ApplicationServiceLayer.AssemblyInfo.cs
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationServiceLayer\bin\Debug\netcoreapp3.1\ApplicationServiceLayer.pdb
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationServiceLayer\bin\Debug\netcoreapp3.1\ApplicationModelLayer.dll
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationServiceLayer\bin\Debug\netcoreapp3.1\ApplicationRepositoryLayer.dll
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationServiceLayer\bin\Debug\netcoreapp3.1\ApplicationRepositoryLayer.pdb
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationServiceLayer\bin\Debug\netcoreapp3.1\ApplicationModelLayer.pdb
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationServiceLayer\obj\Debug\netcoreapp3.1\ApplicationServiceLayer.csproj.CopyComplete
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationServiceLayer\obj\Debug\netcoreapp3.1\ApplicationServiceLayer.dll
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationServiceLayer\obj\Debug\netcoreapp3.1\ApplicationServiceLayer.pdb
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationServiceLayer\obj\Debug\netcoreapp3.1\ApplicationServiceLayer.csproj.CoreCompileInputs.cache

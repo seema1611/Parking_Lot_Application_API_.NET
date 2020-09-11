@@ -1,0 +1,9 @@
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationModelLayer\bin\Debug\netcoreapp3.1\ApplicationModelLayer.deps.json
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationModelLayer\bin\Debug\netcoreapp3.1\ApplicationModelLayer.dll
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationModelLayer\obj\Debug\netcoreapp3.1\ApplicationModelLayer.csprojAssemblyReference.cache
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationModelLayer\obj\Debug\netcoreapp3.1\ApplicationModelLayer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationModelLayer\obj\Debug\netcoreapp3.1\ApplicationModelLayer.AssemblyInfo.cs
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationModelLayer\bin\Debug\netcoreapp3.1\ApplicationModelLayer.pdb
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationModelLayer\obj\Debug\netcoreapp3.1\ApplicationModelLayer.dll
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationModelLayer\obj\Debug\netcoreapp3.1\ApplicationModelLayer.pdb
+C:\Users\User\source\repos_api_New\ParkingLotApplication\ApplicationModelLayer\obj\Debug\netcoreapp3.1\ApplicationModelLayer.csproj.CoreCompileInputs.cache
